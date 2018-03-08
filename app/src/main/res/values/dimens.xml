@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_margin_normal">16dp</dimen>
+    <dimen name="view_margin_big">32dp</dimen>
+    <dimen name="view_margin_small">10dp</dimen>
+    <dimen name="account_margin_start">30dp</dimen>
+    <dimen name="account_margin_end">15dp</dimen>
+    <dimen name="view_padding_big">32dp</dimen>
+    <dimen name="view_padding_normal">16dp</dimen>
+    <dimen name="view_padding_small">10dp</dimen>
+    <dimen name="font_size_big">23sp</dimen>
+    <dimen name="font_size_normal">16sp</dimen>
+    <dimen name="font_size_small">13sp</dimen>
+
+</resources>

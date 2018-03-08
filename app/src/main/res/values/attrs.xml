@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleViewPager">
+        <!--选中和未选中是指示器的图片-->
+        <attr name="selectPointRes" format="reference" />
+        <attr name="normalPointRes" format="reference" />
+        <!--圆点半径-->
+        <attr name="dotWidth" format="dimension" />
+        <!--页面切换时间间隔-->
+        <attr name="interval" format="integer" />
+    </declare-styleable>
+
+</resources>
